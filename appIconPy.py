@@ -32,9 +32,11 @@ if len(sys.argv) > 1 :
 				print("Image is too small - minimum 228x228 needed")
 		else :
 			print("This image is not a square image, can't generate icon")
-	except FileNotFoundError as e:
-		print("File not found - "+sys.argv[1])
+	# except FileNotFoundError as e:
+	# 	print("File not found - "+sys.argv[1])
 	except OSError :
 		print("The file is not an image")
+	except EnvironmentError as e :
+		print(e)
 else :
 	print("Error - Enter file name")
