@@ -11,3 +11,8 @@ Overall goals of this script:
  * remove resized image
  * show success message or error
 
+# Usage
+```sh
+$ python appIconPy.py /path/to/image.png
+```
+
