@@ -4,7 +4,7 @@ import os
 import zipfile
 
 
-dimensions = [180, 167, 152, 120, 87, 80, 76, 60, 58, 40, 29, 20]
+dimensions = [228, 180, 167, 152, 120, 87, 80, 76, 60, 58, 40, 29, 20]
 
 if len(sys.argv) > 1 : 
 	try :
