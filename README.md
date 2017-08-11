@@ -11,6 +11,12 @@ Overall goals of this script:
  * remove resized image
  * show success message or error
 
+# Rquirements 
+ * PIP module for image manipulation - install if you don't have it
+```sh
+$ sudo pip install image
+```
+
 # Usage
 ```sh
 $ python appIconPy.py /path/to/image.png
