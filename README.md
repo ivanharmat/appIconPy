@@ -12,7 +12,7 @@ Overall goals of this script:
  * show success message or error
 
 # Rquirements 
- * PIP module for image manipulation - install if you don't have it
+ * PIL module for image manipulation - install if you don't have it
 ```sh
 $ sudo pip install image
 ```
