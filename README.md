@@ -11,7 +11,7 @@ Overall goals of this script:
  * remove resized image
  * show success message or error
 
-# Rquirements 
+# Requirements 
  * PIL module for image manipulation - install if you don't have it
 ```sh
 $ sudo pip install image
