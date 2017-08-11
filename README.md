@@ -1,4 +1,5 @@
-# appIconPy - Python script to easily generate icons for an iOS app
+# appIconPy
+# Python script to easily generate icons for an iOS app
 
 Overall goals of this script:
 
